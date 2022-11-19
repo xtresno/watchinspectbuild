@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.97072c3d.css",
-    "main.js": "/static/js/main.21a5d798.js",
+    "main.css": "/static/css/main.07825d23.css",
+    "main.js": "/static/js/main.e330de2b.js",
     "static/media/snowy_starry_night2880x1920.jpg": "/static/media/snowy_starry_night2880x1920.5819e0a6e40ebee6530d.jpg",
     "static/media/Nexa-Trial-BlackItalic.ttf": "/static/media/Nexa-Trial-BlackItalic.d15ee48d0ec0a8ae7d5e.ttf",
     "static/media/Nexa-Trial-BoldItalic.ttf": "/static/media/Nexa-Trial-BoldItalic.3b95d211dd714d150e4c.ttf",
@@ -9,12 +9,13 @@
     "static/media/New-York.otf": "/static/media/New-York.e934fc10a53877d377d0.otf",
     "static/media/Seawave.otf": "/static/media/Seawave.899a89b1a43e60725146.otf",
     "static/media/Vogue.ttf": "/static/media/Vogue.cc23cdc2582e9de16b77.ttf",
+    "static/media/Rolex.png": "/static/media/Rolex.c4acdb78904badbbc4d4.png",
     "index.html": "/index.html",
-    "main.97072c3d.css.map": "/static/css/main.97072c3d.css.map",
-    "main.21a5d798.js.map": "/static/js/main.21a5d798.js.map"
+    "main.07825d23.css.map": "/static/css/main.07825d23.css.map",
+    "main.e330de2b.js.map": "/static/js/main.e330de2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.97072c3d.css",
-    "static/js/main.21a5d798.js"
+    "static/css/main.07825d23.css",
+    "static/js/main.e330de2b.js"
   ]
 }
